@@ -1,2 +1,2 @@
-# HTML-B-l-m-Sonu-al-mas-
+# HTML-Bolum-Sonu-alistirmasimas
 Patika.dev HTML Bölüm Sonu Çalışması
